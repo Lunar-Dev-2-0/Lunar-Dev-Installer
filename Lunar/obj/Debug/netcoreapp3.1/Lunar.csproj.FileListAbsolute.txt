@@ -1,0 +1,13 @@
+C:\Users\FaZe_\source\repos\Lunar\Lunar\obj\Debug\netcoreapp3.1\Lunar.csprojAssemblyReference.cache
+C:\Users\FaZe_\source\repos\Lunar\Lunar\obj\Debug\netcoreapp3.1\Lunar.AssemblyInfoInputs.cache
+C:\Users\FaZe_\source\repos\Lunar\Lunar\obj\Debug\netcoreapp3.1\Lunar.AssemblyInfo.cs
+C:\Users\FaZe_\source\repos\Lunar\Lunar\obj\Debug\netcoreapp3.1\Lunar.csproj.CoreCompileInputs.cache
+C:\Users\FaZe_\source\repos\Lunar\Lunar\obj\Debug\netcoreapp3.1\Lunar.genruntimeconfig.cache
+C:\Users\FaZe_\source\repos\Lunar\Lunar\bin\Debug\netcoreapp3.1\Lunar Dev Installer.exe
+C:\Users\FaZe_\source\repos\Lunar\Lunar\bin\Debug\netcoreapp3.1\Lunar Dev Installer.deps.json
+C:\Users\FaZe_\source\repos\Lunar\Lunar\bin\Debug\netcoreapp3.1\Lunar Dev Installer.runtimeconfig.json
+C:\Users\FaZe_\source\repos\Lunar\Lunar\bin\Debug\netcoreapp3.1\Lunar Dev Installer.runtimeconfig.dev.json
+C:\Users\FaZe_\source\repos\Lunar\Lunar\bin\Debug\netcoreapp3.1\Lunar Dev Installer.dll
+C:\Users\FaZe_\source\repos\Lunar\Lunar\bin\Debug\netcoreapp3.1\Lunar Dev Installer.pdb
+C:\Users\FaZe_\source\repos\Lunar\Lunar\obj\Debug\netcoreapp3.1\Lunar Dev Installer.dll
+C:\Users\FaZe_\source\repos\Lunar\Lunar\obj\Debug\netcoreapp3.1\Lunar Dev Installer.pdb
